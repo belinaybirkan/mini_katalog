@@ -1,0 +1,21 @@
+# Dart analiz ayarları.
+# Eğitim kuralı gereği harici paket (flutter_lints dahil) eklenmedi;
+# aşağıdaki kurallar Dart analyzer'ın içinde hazır bulunur.
+
+analyzer:
+  exclude:
+    - build/**
+    - android/**
+    - ios/**
+    - web/**
+    - windows/**
+    - macos/**
+    - linux/**
+
+linter:
+  rules:
+    - avoid_print
+    - prefer_const_constructors_in_immutables
+    - prefer_final_fields
+    - unnecessary_new
+    - use_key_in_widget_constructors

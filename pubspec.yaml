@@ -1,0 +1,40 @@
+name: mini_katalog
+description: "Mini Katalog Uygulaması - Flutter günlük eğitim projesi (ana sayfa, ürün listesi, ürün detayı ve sepet simülasyonu)."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.0
+
+# Eğitim kuralı gereği harici paket kullanılmadı.
+# Yalnızca Flutter SDK'nın kendi kütüphaneleri (material.dart) kullanılır.
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  # Asset yönetimi: JSON verisi, görseller ve lisans metinleri
+  assets:
+    - assets/data/
+    - assets/images/
+    - assets/images/products/
+    - assets/licenses/
+
+  # Uygulama yazı tipi (SIL Open Font License 1.1)
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins-Regular.ttf
+        - asset: assets/fonts/Poppins-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/Poppins-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Poppins-Bold.ttf
+          weight: 700

@@ -1,0 +1,309 @@
+{
+  "total": 16,
+  "products": [
+    {
+      "id": 1,
+      "name": "Aura Kulaklık Max",
+      "tagline": "Aktif gürültü engelleme",
+      "description": "Aura Kulaklık Max, uyarlanabilir gürültü engelleme özelliğiyle kalabalık bir kafede bile müziğe odaklanmanı sağlar. Yumuşak hafızalı köpük kulak yastıkları uzun derslerde ve yolculuklarda konfor sunar. Tek şarjla 30 saate kadar dinleme süresi sağlar.",
+      "price": 4299,
+      "category": "Ses",
+      "image": "assets/images/products/headphone.png",
+      "rating": 4.8,
+      "reviewCount": 214,
+      "stock": 18,
+      "isFeatured": true,
+      "colors": ["Gümüş", "Siyah", "Gece Mavisi"],
+      "specs": [
+        {"label": "Pil", "value": "30 saat"},
+        {"label": "Bağlantı", "value": "Bluetooth 5.3"},
+        {"label": "Ağırlık", "value": "250 g"}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Boom Mini Hoparlör",
+      "tagline": "Küçük boyut, 360° ses",
+      "description": "Avuç içine sığan Boom Mini, 360 derece ses dağılımıyla odanın her köşesini doldurur. Suya ve toza dayanıklı gövdesi sayesinde piknikte ve sahilde rahatça kullanılabilir. İki hoparlörü eşleştirerek stereo ses elde edebilirsin.",
+      "price": 1899,
+      "category": "Ses",
+      "image": "assets/images/products/speaker.png",
+      "rating": 4.5,
+      "reviewCount": 96,
+      "stock": 25,
+      "isFeatured": true,
+      "colors": ["Beyaz", "Mavi", "Turuncu"],
+      "specs": [
+        {"label": "Güç", "value": "10 W"},
+        {"label": "Dayanıklılık", "value": "IP67"},
+        {"label": "Pil", "value": "12 saat"}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Vox Stüdyo Mikrofon",
+      "tagline": "Podcast ve yayın için",
+      "description": "Vox Stüdyo Mikrofon, kardioid kayıt deseniyle sesini net ve doğal bir şekilde yakalar, ortam gürültüsünü azaltır. USB-C ile tak-çalıştır kullanılır; ek sürücü gerektirmez. Üzerindeki kulaklık çıkışıyla kendini gecikmesiz dinleyebilirsin.",
+      "price": 2499,
+      "category": "Ses",
+      "image": "assets/images/products/microphone.png",
+      "rating": 4.6,
+      "reviewCount": 57,
+      "stock": 9,
+      "isFeatured": false,
+      "colors": ["Gümüş", "Siyah"],
+      "specs": [
+        {"label": "Desen", "value": "Kardioid"},
+        {"label": "Örnekleme", "value": "48 kHz"},
+        {"label": "Bağlantı", "value": "USB-C"}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Lumen Book 14",
+      "tagline": "İnce. Hafif. Güçlü.",
+      "description": "Lumen Book 14, yalnızca 1,2 kg ağırlığıyla kampüste gün boyu yanında taşıyabileceğin bir dizüstü bilgisayardır. Yüksek parlaklıktaki 14 inç ekranı ve sessiz soğutması sayesinde ders, kodlama ve tasarım işlerinde akıcı bir deneyim sunar.",
+      "price": 38999,
+      "category": "Bilgisayar",
+      "image": "assets/images/products/laptop.png",
+      "rating": 4.9,
+      "reviewCount": 342,
+      "stock": 7,
+      "isFeatured": true,
+      "colors": ["Uzay Grisi", "Gümüş"],
+      "specs": [
+        {"label": "Ekran", "value": "14 inç"},
+        {"label": "Bellek", "value": "16 GB"},
+        {"label": "Depolama", "value": "512 GB SSD"}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Lumen Studio 24",
+      "tagline": "Hepsi bir arada masaüstü",
+      "description": "Lumen Studio 24, 24 inç yüksek çözünürlüklü ekranı ve kasasına gizlenmiş bileşenleriyle masanda yer kaplamayan bir masaüstü bilgisayardır. Kutusundan çıkan kablosuz klavye ile hemen çalışmaya başlayabilirsin.",
+      "price": 46499,
+      "category": "Bilgisayar",
+      "image": "assets/images/products/desktop.png",
+      "rating": 4.7,
+      "reviewCount": 88,
+      "stock": 4,
+      "isFeatured": false,
+      "colors": ["Mavi", "Gümüş", "Yeşil"],
+      "specs": [
+        {"label": "Ekran", "value": "24 inç 4.5K"},
+        {"label": "Bellek", "value": "16 GB"},
+        {"label": "Depolama", "value": "1 TB SSD"}
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Nova Phone 15",
+      "tagline": "48 MP kamera, gün boyu pil",
+      "description": "Nova Phone 15, 6,1 inç OLED ekranı ve 48 MP ana kamerasıyla hem günlük kullanımda hem de fotoğrafçılıkta iddialıdır. Alüminyum kasası hafif ve sağlamdır; hızlı şarj desteğiyle 30 dakikada %50 doluluğa ulaşır.",
+      "price": 32999,
+      "category": "Telefon & Saat",
+      "image": "assets/images/products/phone.png",
+      "rating": 4.8,
+      "reviewCount": 507,
+      "stock": 15,
+      "isFeatured": true,
+      "colors": ["Mor", "Siyah", "Beyaz"],
+      "specs": [
+        {"label": "Ekran", "value": "6,1 inç OLED"},
+        {"label": "Kamera", "value": "48 MP"},
+        {"label": "Depolama", "value": "128 GB"}
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Tempo Klasik Saat",
+      "tagline": "Zamansız tasarım",
+      "description": "Tempo Klasik Saat, sade kadranı ve hafif kasasıyla her kombine uyum sağlar. Suya dayanıklı yapısı ve değiştirilebilir silikon kayışıyla spor yaparken de rahatça kullanılabilir. Pili yaklaşık iki yıl dayanır.",
+      "price": 2799,
+      "category": "Telefon & Saat",
+      "image": "assets/images/products/watch.png",
+      "rating": 4.4,
+      "reviewCount": 73,
+      "stock": 20,
+      "isFeatured": false,
+      "colors": ["Mavi", "Siyah", "Krem"],
+      "specs": [
+        {"label": "Kasa", "value": "40 mm"},
+        {"label": "Su direnci", "value": "5 ATM"},
+        {"label": "Kayış", "value": "Silikon"}
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Snap X20 Fotoğraf Makinesi",
+      "tagline": "Aynasız, 24 MP",
+      "description": "Snap X20, 24 MP sensörü ve hızlı otomatik odaklamasıyla anı yakalamayı kolaylaştırır. Kompakt gövdesi seyahatlerde çanta yükünü hafifletir. Dahili Wi-Fi ile fotoğraflarını saniyeler içinde telefonuna aktarabilirsin.",
+      "price": 21999,
+      "category": "Fotoğraf",
+      "image": "assets/images/products/camera.png",
+      "rating": 4.7,
+      "reviewCount": 64,
+      "stock": 6,
+      "isFeatured": true,
+      "colors": ["Gümüş", "Siyah"],
+      "specs": [
+        {"label": "Sensör", "value": "24 MP"},
+        {"label": "Video", "value": "4K 30 fps"},
+        {"label": "Ağırlık", "value": "390 g"}
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Vlog Cam 4K",
+      "tagline": "İçerik üreticileri için",
+      "description": "Vlog Cam 4K, görüntü sabitleme özelliği sayesinde yürürken bile titremeyen videolar çeker. Dönebilen ekranı kendini çekerken kadrajı görmeni sağlar. Harici mikrofon girişiyle ses kalitesini bir üst seviyeye taşıyabilirsin.",
+      "price": 12999,
+      "category": "Fotoğraf",
+      "image": "assets/images/products/video_camera.png",
+      "rating": 4.3,
+      "reviewCount": 41,
+      "stock": 11,
+      "isFeatured": false,
+      "colors": ["Gri"],
+      "specs": [
+        {"label": "Video", "value": "4K 60 fps"},
+        {"label": "Sabitleme", "value": "5 eksen"},
+        {"label": "Pil", "value": "2 saat"}
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Play Pro Oyun Kolu",
+      "tagline": "Kablosuz, düşük gecikme",
+      "description": "Play Pro, ergonomik tutuş yüzeyi ve hassas analog çubuklarıyla uzun oyun seanslarında bile konfor sağlar. Bilgisayar, tablet ve telefonla uyumludur. Titreşim motorları oyundaki her çarpışmayı ellerinde hissettirir.",
+      "price": 2299,
+      "category": "Oyun & Eğlence",
+      "image": "assets/images/products/gamepad.png",
+      "rating": 4.6,
+      "reviewCount": 189,
+      "stock": 30,
+      "isFeatured": true,
+      "colors": ["Mor", "Siyah"],
+      "specs": [
+        {"label": "Bağlantı", "value": "Bluetooth"},
+        {"label": "Pil", "value": "20 saat"},
+        {"label": "Uyumluluk", "value": "PC, mobil"}
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Arcade Retro Joystick",
+      "tagline": "80'lerin ruhu masanda",
+      "description": "Arcade Retro Joystick, klasik salon oyunlarının hissini evine getirir. Sağlam metal tabanı ve tıklama sesi veren mikro anahtarları uzun ömürlüdür. USB ile bilgisayara bağlanır, ek kurulum gerektirmez.",
+      "price": 1749,
+      "category": "Oyun & Eğlence",
+      "image": "assets/images/products/joystick.png",
+      "rating": 4.2,
+      "reviewCount": 35,
+      "stock": 14,
+      "isFeatured": false,
+      "colors": ["Siyah-Kırmızı"],
+      "specs": [
+        {"label": "Bağlantı", "value": "USB"},
+        {"label": "Tuş", "value": "8 adet"},
+        {"label": "Taban", "value": "Metal"}
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Vision 32 Retro TV",
+      "tagline": "Nostaljik görünüm, akıllı özellikler",
+      "description": "Vision 32 Retro TV, eski televizyonları anımsatan tasarımını modern akıllı TV özellikleriyle birleştirir. Popüler yayın uygulamaları dahili olarak gelir. Yurt odası ve küçük salonlar için ideal bir boyuttadır.",
+      "price": 9999,
+      "category": "Oyun & Eğlence",
+      "image": "assets/images/products/television.png",
+      "rating": 4.1,
+      "reviewCount": 22,
+      "stock": 5,
+      "isFeatured": false,
+      "colors": ["Krem", "Gri"],
+      "specs": [
+        {"label": "Ekran", "value": "32 inç"},
+        {"label": "Çözünürlük", "value": "Full HD"},
+        {"label": "Bağlantı", "value": "Wi-Fi, HDMI"}
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Klik Mekanik Klavye",
+      "tagline": "Sessiz mekanik tuşlar",
+      "description": "Klik Mekanik Klavye, sessiz mekanik anahtarlarıyla tatmin edici bir yazma hissi sunarken ortamı rahatsız etmez. Kompakt yerleşimi masada mouse için daha fazla alan bırakır. Üç farklı cihaza kablosuz bağlanabilir.",
+      "price": 1999,
+      "category": "Aksesuar",
+      "image": "assets/images/products/keyboard.png",
+      "rating": 4.5,
+      "reviewCount": 118,
+      "stock": 22,
+      "isFeatured": false,
+      "colors": ["Beyaz", "Gri"],
+      "specs": [
+        {"label": "Yerleşim", "value": "Türkçe Q"},
+        {"label": "Bağlantı", "value": "3 cihaz"},
+        {"label": "Pil", "value": "3 ay"}
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Glide Kablosuz Mouse",
+      "tagline": "Her yüzeyde akıcı",
+      "description": "Glide Kablosuz Mouse, ergonomik yapısı ve hassas sensörüyle cam dahil pek çok yüzeyde akıcı çalışır. Sessiz tıklama tuşları kütüphanede bile rahatça kullanmanı sağlar. USB-C ile şarj olur.",
+      "price": 899,
+      "category": "Aksesuar",
+      "image": "assets/images/products/mouse.png",
+      "rating": 4.4,
+      "reviewCount": 241,
+      "stock": 40,
+      "isFeatured": false,
+      "colors": ["Beyaz", "Siyah", "Pembe"],
+      "specs": [
+        {"label": "DPI", "value": "4000"},
+        {"label": "Şarj", "value": "USB-C"},
+        {"label": "Ağırlık", "value": "85 g"}
+      ]
+    },
+    {
+      "id": 15,
+      "name": "PowerCell 20.000 mAh",
+      "tagline": "Telefonunu 4 kez şarj eder",
+      "description": "PowerCell, 20.000 mAh kapasitesiyle telefonunu yaklaşık dört kez şarj edebilir. Aynı anda iki cihazı hızlı şarj eder. Üzerindeki gösterge, kalan şarj seviyesini her an görmeni sağlar.",
+      "price": 1199,
+      "category": "Aksesuar",
+      "image": "assets/images/products/powerbank.png",
+      "rating": 4.6,
+      "reviewCount": 302,
+      "stock": 35,
+      "isFeatured": true,
+      "colors": ["Yeşil", "Siyah"],
+      "specs": [
+        {"label": "Kapasite", "value": "20.000 mAh"},
+        {"label": "Çıkış", "value": "2 x USB-C"},
+        {"label": "Hızlı şarj", "value": "22,5 W"}
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Volt 35W Şarj Adaptörü",
+      "tagline": "Hızlı ve güvenli şarj",
+      "description": "Volt 35W, telefonunu, tabletini ve hafif dizüstü bilgisayarını hızlı şarj edebilen kompakt bir adaptördür. Aşırı ısınma ve kısa devre korumasıyla güvenle kullanılır. Katlanabilir fişi sayesinde çantada yer kaplamaz.",
+      "price": 649.9,
+      "category": "Aksesuar",
+      "image": "assets/images/products/charger.png",
+      "rating": 4.3,
+      "reviewCount": 77,
+      "stock": 50,
+      "isFeatured": false,
+      "colors": ["Siyah", "Beyaz"],
+      "specs": [
+        {"label": "Güç", "value": "35 W"},
+        {"label": "Giriş", "value": "USB-C"},
+        {"label": "Koruma", "value": "Isı, akım"}
+      ]
+    }
+  ]
+}
