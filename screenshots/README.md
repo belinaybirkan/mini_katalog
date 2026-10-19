@@ -11,4 +11,4 @@ Ana README'deki tablo bu klasördeki şu dosyaları gösterir:
 | `05_bos_sepet.png` | Boş sepet |
 | `06_siparis_onayi.png` | Sipariş onayı |
 
-Görüntüler Android emülatöründe, uygulama `flutter run` ile çalıştırılarak alınmıştır.
+Görüntüler uygulama `flutter run` ile çalıştırılarak alınmıştır.
